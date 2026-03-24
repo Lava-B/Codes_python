@@ -20,7 +20,7 @@ def reverse(sequence):
     comp_sequence = [complement_map[base] for base in sequence.upper()]
     reverse_comp = "".join(comp_sequence[::-1])
     
-return reverse_comp
+    return reverse_comp
 
 print(f"Original: {sequence}")
 print(f"Reverse Complement: {reverse(sequence)}")
