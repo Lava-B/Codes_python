@@ -1,2 +1,2 @@
-# Biocodes_python
-Python learning journey documented by coding small biotech related scripts
+# codes_python
+Python learning journey documented by coding small (mostly) biotech related scripts
