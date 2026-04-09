@@ -1,2 +1,2 @@
 # Codes_python
-Python learning journey documented by coding small (mostly) biotech related scripts
+Python learning with small scripts
